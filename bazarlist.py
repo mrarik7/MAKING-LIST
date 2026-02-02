@@ -22,7 +22,8 @@ if msg == 'end':
     st.subheader('your list is ready💁')
     st.write(st.session_state.msg)
     st.write ('⚠️take a screanshot so that you have a copy for later uses:)')
-    
+    st.markdown('[about Arik](https://profilepy-3t8ez4hcjvvmwsczqmxnbz.streamlit.app/)')
+
 
 
 
